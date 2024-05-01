@@ -10,7 +10,7 @@ Welcome to the first ComCord Hackathon - where a lot of stupid people do stupid 
 Note: If the final project is related to DevOps and Kubernetes we would like to invite you to [Kubernetes London in June](https://guild.host/events/kubernetesuwubernetes-y2gk4w). 
 
 <h2 align="center">Themes</h2>
-
+Probable themes:
 - OSS for OSS 
 - Hunger Game
 - Clean water
@@ -18,7 +18,7 @@ Note: If the final project is related to DevOps and Kubernetes we would like to 
 
 
 ### Project details 
-You can interpret the theme however you want
+You can interpret the theme however you want. There is no limitation on what you can build and where your imagination wants to go. 
 
 
 ### Team size
