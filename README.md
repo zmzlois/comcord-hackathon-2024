@@ -37,6 +37,7 @@ You can interpret the theme however you want. There is no limitation on what you
 
 ### Starting date
 - 8th May
+- We'd expect you to submit your [team member](https://github.com/zmzlois/comcord-hackathon-2024/issues/new?assignees=&labels=team+submission&projects=&template=team-formation--team-name-.md&title=Team:+%5Bname%5D) here within one week after the hackathon starts. 
 
 ### Deadline
 - 10th June
