@@ -17,7 +17,7 @@ Note: If the final project is related to DevOps and Kubernetes we would like to 
 ### Project details 
 You can interpret the theme however you want. There is no limitation on what you can build and where your imagination wants to go. Regardless it is a Kubernetes Operator, npm package, infrastructure tool for the web to speed up development or an app that helps you shop tools to build toy Rockets. There is no limitation on what languages you'd like to use as long as it is functional - writing something in Javascript/Typescript, [Gleam](https://gleam.run/), [Zig](https://gleam.run/), [Rust](https://www.rust-lang.org/), [Lisp](https://lisp-lang.org/) or [Ocamel](https://ocaml.org/) is absolutely fantastic. **We will invite judges who understand you.** If you wish to continue with the idea of OSS for OSS but theme it in some way close to "Launching Rocket" - you totally can!
 
-Tips: Write a good documentation for it if possible - we want you to know that documentation is critical for something that lasts. Participants will be presenting their projects on a Twitch stream. 
+Tips: Write a good documentation for it if possible - we want you to know that documentation is critical for something that lasts. **Participants will be presenting their projects on a Twitch stream at the end.**
 
 ### Judge 
 
