@@ -22,7 +22,8 @@ Tips: Write a good documentation for it if possible - we want you to know that d
 ### Judge 
 
 - [Trav](https://twitter.com/techsavvytravvy): Over a decade of experience - Senior Developer/Tech Lead at Universal Music Group. Twitch Streamer. He forked [Crablang](https://github.com/crablang). 
-- [Zeu](https://twitter.com/zeu_dev): Software engineer at [OpenSauced](https://opensauced.pizza/). Twitch Streamer. Writes a lot of Svelte. 
+- [Zeu](https://twitter.com/zeu_dev): Software engineer at [OpenSauced](https://opensauced.pizza/). Twitch Streamer. Writes a lot of Svelte.
+- [Keyla](https://twitter.com/keyladelslay): Over 15 years of experience with PHP, Javascript, Typescript, Rust...you name it. Ex-[Vans](https://www.vans.co.uk/).
 - A list of secret judges/twitch streamers is onboarding soon...stay tuned!
 
 ### Team size
