@@ -28,7 +28,7 @@ Tips: Write a good documentation for it if possible - we want you to know that d
  
  2-3
 
- You can find your team member from ComCord but you can also find friends outside of ComCord. 
+ You can find your team member from ComCord but you can also find friends outside of ComCord. If you can't -- let us [discord server](https://discord.gg/R49Xqt9Ys2) know and we will help you allocate one. 
 
 ### Prizes
 - Most difficult to complete
