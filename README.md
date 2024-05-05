@@ -9,17 +9,18 @@ Welcome to the first ComCord Hackathon - where a lot of stupid people do stupid 
 
 Note: If the final project is related to DevOps and Kubernetes we would like to invite you to [Kubernetes London in June](https://guild.host/events/kubernetesuwubernetes-y2gk4w). 
 
-<h2 align="center">Themes</h2>
-Probable themes:
-- OSS for OSS 
-- Hunger Game
-- Clean water
+### Theme
+
 - Launching rocket
 
 
 ### Project details 
-You can interpret the theme however you want. There is no limitation on what you can build and where your imagination wants to go. 
+You can interpret the theme however you want. There is no limitation on what you can build and where your imagination wants to go. Regardless it is a Kubernetes Operator, npm package, infrastructure tool for the web to speed up development or an app helps you shop tools to build toy Rockets. There is no limitation on the languages as long as it is functional, or writing something in [Gleam](https://gleam.run/), [Zig](https://gleam.run/), [Rust](https://www.rust-lang.org/), [Lisp](https://lisp-lang.org/), [Ocamel](https://ocaml.org/) If you wish to continue with the idea of OSS for OSS but theme it in some way close to "Launching Rocket" - you totally can!
 
+### Judge 
+
+- [Trav](https://twitter.com/techsavvytravvy): Over a decade of experience - Senior Developer/Tech Lead at Universal Music Group. Twitch Streamer. He forked [Crablang](https://github.com/crablang). 
+- TBC
 
 ### Team size
  
