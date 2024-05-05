@@ -47,6 +47,10 @@ You can interpret the theme however you want. There is no limitation on what you
 - Each repository will be showcased with listed team members on this README.md after the deadline. 
 - The GitHub repository link should be sent over to Lois([discord: comcord](https://discord.gg/R49Xqt9Ys2)) before the deadline. 
 
+### Relevant Links
+
+- [Discord Server](https://discord.gg/UDH3FaH2)
+
 
 
 ### Rules
