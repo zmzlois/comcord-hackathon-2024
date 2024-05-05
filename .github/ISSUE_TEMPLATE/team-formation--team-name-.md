@@ -1,7 +1,7 @@
 ---
 name: Team formation [Team name]
 about: Submitting hackathon team member
-title: ''
+title: 'Team: [name]'
 labels: team submission
 assignees: ''
 
