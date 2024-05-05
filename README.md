@@ -21,16 +21,18 @@ Tips: Write a good documentation for it if possible - we want you to know that d
 
 ### Judge 
 
-- [Trav](https://twitter.com/techsavvytravvy): Over a decade of experience - Senior Developer/Tech Lead at Universal Music Group. Twitch Streamer. He forked [Crablang](https://github.com/crablang). 
+- [Trav](https://twitter.com/techsavvytravvy): Over two decades of experience - Senior Developer/Tech Lead at Universal Music Group. Twitch Streamer. He forked [Crablang](https://github.com/crablang). 
 - [Zeu](https://twitter.com/zeu_dev): Software engineer at [OpenSauced](https://opensauced.pizza/). Twitch Streamer. Writes a lot of Svelte.
 - [Keyla](https://twitter.com/keyladelslay): Over 15 years of experience with PHP, Javascript, Typescript, Rust...you name it. Ex-[Vans](https://www.vans.co.uk/).
 - A list of secret judges/twitch streamers is onboarding soon...stay tuned!
 
 ### Team size
  
- 2-3
+ - 2-3
 
- You can find your team member from ComCord but you can also find friends outside of ComCord. If you can't -- let us [discord server](https://discord.gg/R49Xqt9Ys2) know and we will help you allocate one. 
+ - You can find your team member from ComCord but you can also find friends outside of ComCord. If you can't -- let us [discord server](https://discord.gg/R49Xqt9Ys2) know and we will help you allocate one. 
+
+ - [Register your team member](https://github.com/zmzlois/comcord-hackathon-2024/issues/new?assignees=&labels=team+submission&projects=&template=team-formation--team-name-.md&title=Team:+%5Bname%5D)
 
 ### Prizes
 - Most difficult to complete
