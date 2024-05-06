@@ -48,6 +48,7 @@ Tips: Write a good documentation for it if possible - we want you to know that d
 
 ### Deadline
 - 10th June
+- Yes, you will have a whole month to create a project. 
 
 ### Submission Criteria
 - The final project should be in one Github repository with an explanation of the project structure. 
