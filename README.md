@@ -33,7 +33,7 @@ Tips: Write a good documentation for it if possible - we want you to know that d
 
  - **Team size is a hard requirement.** 
 
- - You can find your team member from ComCord but you can also find friends outside of ComCord. If you can't -- let us [discord server](https://discord.gg/R49Xqt9Ys2) know and we will help you allocate one. 
+ - You can find your team member from ComCord but you can also find friends outside of ComCord. If you can't -- let us [discord server](https://discord.gg/R49Xqt9Ys2) know or [submit an issue here](https://github.com/zmzlois/comcord-hackathon-2024/issues/new?assignees=&labels=looking+for+group&projects=&template=looking-for-group.md&title=%5BYour+name:+looking+for+teammate%5D) and we will help you allocate one. 
 
  - [Register your team member](https://github.com/zmzlois/comcord-hackathon-2024/issues/new?assignees=&labels=team+submission&projects=&template=team-formation--team-name-.md&title=Team:+%5Bname%5D)
 
